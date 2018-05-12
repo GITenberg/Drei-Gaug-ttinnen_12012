@@ -1,5 +1,8 @@
 _repo: Drei-Gaug-ttinnen_12012
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rochholz, Ernst Ludwig
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4176'
     url: http://www.gutenberg.org/2009/agents/4176
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12012#Drei-Gaug-ttinnen
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
